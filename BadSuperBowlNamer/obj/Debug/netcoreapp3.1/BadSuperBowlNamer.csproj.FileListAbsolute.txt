@@ -1,0 +1,13 @@
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\bin\Debug\netcoreapp3.1\BadSuperBowlNamer.exe
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\bin\Debug\netcoreapp3.1\BadSuperBowlNamer.deps.json
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\bin\Debug\netcoreapp3.1\BadSuperBowlNamer.runtimeconfig.json
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\bin\Debug\netcoreapp3.1\BadSuperBowlNamer.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\bin\Debug\netcoreapp3.1\BadSuperBowlNamer.dll
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\bin\Debug\netcoreapp3.1\BadSuperBowlNamer.pdb
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\obj\Debug\netcoreapp3.1\BadSuperBowlNamer.csprojAssemblyReference.cache
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\obj\Debug\netcoreapp3.1\BadSuperBowlNamer.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\obj\Debug\netcoreapp3.1\BadSuperBowlNamer.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\obj\Debug\netcoreapp3.1\BadSuperBowlNamer.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\obj\Debug\netcoreapp3.1\BadSuperBowlNamer.dll
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\obj\Debug\netcoreapp3.1\BadSuperBowlNamer.pdb
+C:\Users\rmpfo\source\repos\BadSuperBowlNamer\BadSuperBowlNamer\obj\Debug\netcoreapp3.1\BadSuperBowlNamer.genruntimeconfig.cache
